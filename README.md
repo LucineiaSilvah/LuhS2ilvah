@@ -1,8 +1,8 @@
 ### Olá eu sou a Luh 🥰 seja bem-vindo ao meu perfil!!
 
 
-<h3 > Atualmente Estudando as linguagem abaixo + Graduação em Gestão de TI<h3>
-<div style="display: inline_block"><br>
+<h3  align="center"> Atualmente Estudando as linguagem abaixo + Graduação em Gestão de TI<h3>
+<div style="display: inline_block" align="center" ><br>
   
   
  
@@ -12,8 +12,9 @@
    <img align="center" alt="Luh-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  <img  src="https://user-images.githubusercontent.com/90657609/153277502-55d820bb-aec6-4243-9524-b8080186d95d.gif" width="200" height="200" align="center">
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/90657609/153277502-55d820bb-aec6-4243-9524-b8080186d95d.gif" width="200" height="200" />
 
